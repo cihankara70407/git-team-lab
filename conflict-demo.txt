@@ -1,1 +1,1 @@
-﻿Shared line: original
+﻿Version B: Another change to the SAME line
